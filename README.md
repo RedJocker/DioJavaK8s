@@ -1,5 +1,8 @@
 # Java and Kubernetes
 
+Este roteiro de estudos é um mero clone deste repositorio https://github.com/sandrogiacom/java-kubernetes.
+A existencia deste repositório é apenas para a entrega do projeto na plataforma DIO
+
 Show how you can move your spring boot application to docker and kubernetes.
 This project is a demo for the series of posts on dev.to
 https://dev.to/sandrogiacom/kubernetes-for-java-developers-setup-41nk
